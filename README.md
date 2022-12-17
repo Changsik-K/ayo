@@ -45,7 +45,7 @@ __메인프로그램실행__
 __코인마켓캡 CRYPTO 데이터 가져오기__
 - 아래 그림 OPEN_API_CHART 탭으로 이동한다
 - ![image](https://user-images.githubusercontent.com/120719360/208230287-40dace09-8a2e-40a6-afb4-f7825e3718ce.png)
-- 스크롤바를 내려서 좌측 파일선택 상자에는 설치한 파이썬 실행파일을 선택하고, 우측에는 C:\ayo\python\getTop100CoinData.py cbb35343-71fe-4351-ac57-e3c8cb7c296c를 선택한다. 
+- 스크롤바를 내려서 좌측 파일선택 상자에는 설치한 파이썬 실행파일을 선택하고, 우측에는 C:\ayo\python\getTop100CoinData.py를 선택하고 한칸 고 api키값 cbb35343-71fe-4351-ac57-e3c8cb7c296c를 써준다 
 - ![image](https://user-images.githubusercontent.com/120719360/208230420-88bd3f9f-7e1e-490f-b97b-2df524fd194e.png)
 
 __비트코인 종가분석 프로그램 실행하기__
