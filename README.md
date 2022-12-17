@@ -1,4 +1,4 @@
-## 'AYO CRYPTO HOT 10' 고려대학교 Design Thinking 과제 프로토타이핑 데모 S/W
+## 'AYO CRYPTO HOT 10' 고려대학교 대학원 Design Thinking 수업과제 프로토타이핑 데모 S/W
 
 __개발환경__
 - 메인 프로그램: NATIONAL INSTRUMENTS Co. LabVIEW Development System 2017 이상
