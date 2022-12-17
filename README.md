@@ -41,6 +41,7 @@ __Fourth step__
 __메인프로그램실행__
 - C:\ayo\exe\ayo_crypto의 ayo_crypto.exe를 실행한다.
 - 첨부되는 ayo_user_manual_ver1(20221216).ppt 메뉴얼을 보고, 스텝별로 따라서 데모 프로그램을 조작한다.
+- 동영상 링크: [apiLink](https://youtu.be/d7sPiifBDBw)
 
 __코인마켓캡 CRYPTO 데이터 가져오기__
 - 아래 그림 OPEN_API_CHART 탭으로 이동한다
