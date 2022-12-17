@@ -13,6 +13,8 @@ __First step__
 __Second step__
 - 실행파일을 실행하기 위해서는 LabVIEW run-time engine 2017이상을 설치해야 한다. 
 [apiLink](https://www.ni.com/ko-kr/support/downloads/software-products/download.labview-runtime.html#460613) 로 가서 2017 또는 그 이상을 설치한다.  
+- 소스코드(ayo_crypto.lvproj / crypto.vi.vi)를 보거나 수정하고 싶으면 
+[apiLink](https://www.ni.com/ko-kr/support/downloads/software-products/download.labview.html#460283)로 가서 2017 또는 그 이상을 설치한다. 
 
 ## 코인마켓캡 top 100 listing data Open API 파이썬 프로그램 installation
 __First step__
