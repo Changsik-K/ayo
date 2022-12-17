@@ -11,7 +11,8 @@ __First step__
 - 소스코드는 전체를 다운로드 후, 'ayo' 폴더를 c드라이브 아래에 위치 시킨다.
 
 __Second step__
-- 실행파일을 실행하기 위해서는 LabVIEW run-time engine 2017이상을 설치해야 한다.
+- 실행파일을 실행하기 위해서는 LabVIEW run-time engine 2017이상을 설치해야 한다. 
+[apiLink](https://www.ni.com/ko-kr/support/downloads/software-products/download.labview-runtime.html#460613) 로 가서 설치하거나, 
 
 ## 코인마켓캡 top 100 listing data Open API 파이썬 프로그램 installation
 __First step__
